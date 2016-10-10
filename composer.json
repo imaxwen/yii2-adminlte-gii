@@ -13,9 +13,9 @@
             "email": "max.wen@qq.com"
         }
     ],
-	"autoload": {
-		"psr-4": {
-			"maxwen\\gii\\": ""
-		}
-	}
+    "autoload": {
+	"psr-4": {
+	    "maxwen\\gii\\": ""
+        }
+    }
 }
