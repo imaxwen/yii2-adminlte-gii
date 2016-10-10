@@ -3,8 +3,8 @@
     "description": "yii2 code generator with adminlte theme",
     "type": "extension",
     "require": {
-        "yiisoft/yii2": "2.0.6",
-        "almasaeed2010/adminlte": "2.1"
+        "yiisoft/yii2": "~2.0.0",
+        "almasaeed2010/adminlte": "~2.0"
     },
     "license": "MIT",
     "authors": [
