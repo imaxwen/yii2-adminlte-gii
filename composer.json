@@ -1,0 +1,21 @@
+{
+    "name": "maxwen/yii2-adminlte-gii",
+    "description": "yii2 code generator with adminlte theme",
+    "type": "extension",
+    "require": {
+        "yiisoft/yii2": "2.0.6",
+        "almasaeed2010/adminlte": "2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max Wen",
+            "email": "max.wen@qq.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"maxwen\\gii\\": ""
+		}
+	}
+}
