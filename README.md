@@ -2,7 +2,7 @@
 yii2 code generator for [AdminLTE](https://github.com/almasaeed2010/AdminLTE) theme.
 
 
-## Usage
+## Installation
 
 in your main-local.php, add options blow:
 
@@ -15,7 +15,7 @@ $config['modules']['gii'] = [
 		'controllerNamespace' => 'maxwen\gii\controllers',
 		'generators' => [
 			'AdminLte Crud' => [
-				'class' => 'backend\gii\generators\crud\Generator',
+				'class' => 'maxwen\gii\generators\crud\Generator',
 			]
 		]
 	];
