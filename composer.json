@@ -4,7 +4,8 @@
     "type": "extension",
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "almasaeed2010/adminlte": "~2.0"
+        "almasaeed2010/adminlte": "~2.0",
+		"insolita/yii2-adminlte-widgets": "~2.1"
     },
     "license": "MIT",
     "authors": [
